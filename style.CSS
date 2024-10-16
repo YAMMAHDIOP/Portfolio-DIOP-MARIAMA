@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    margin-left: 200px;
+}
+.menu{
+    list-style: none;
+    display: flex;
+}
+.menu li {
+    margin: 0 15px;
+}
+.menu li a{
+    text-decoration: none;
+}
+.menu li a{
+  color: hsl(58, 83%, 50%); /* Changer la couleur du texte lors du survol */
+  }
+  
